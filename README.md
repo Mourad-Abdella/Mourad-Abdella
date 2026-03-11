@@ -57,7 +57,7 @@ For the off-chance I'm not doing that, I'm probably 🛹
 ---
 
 ## 📫 Let's Connect
-
+![Profile Views](https://komarev.com/ghpvc/?username=Mourad-Abdella&color=blue&style=flat)
 <p align="left">
   <a href="https://portfoliomourad.vercel.app">
     <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
