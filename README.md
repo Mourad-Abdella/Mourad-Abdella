@@ -12,14 +12,18 @@ For the off-chance I'm not doing that, I'm probably 🛹
 - at the gym or playing sports
 - gaming with friends
 - discovering new music
-- Reading manwha (check out burning effect)
+- reading manwha (check out [Burning Effect]([https://www.webtoons.com/en/action/burning-effect/list?title_no=1547](https://mangadex.org/title/897ee431-5738-4465-8389-6cab340c4bd1/burning-effect?tab=art)))
 - or looking for a job (PLEASE REFER ME)
 
 ---
 
-## 👀 What I'm doing rn
+## 🎶🎧 What I'm Listening to rn
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/769219246780973077)](https://discord.com/users/769219246780973077)
+<p align="left">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=qfi4geno27vemvpcfi8ls18xk&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qfi4geno27vemvpcfi8ls18xk&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false" />
+  </a>
+</p>
 
 ---
 
