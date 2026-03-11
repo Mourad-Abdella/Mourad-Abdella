@@ -1,13 +1,15 @@
 # Hey, I'm Mourad 👋
 I'm a first-year Data Science student 
+
 Most of the time you'll catch me building something like:
-- a **dashboard** that actually tells a story
-- **machine learning models** people can use in their browser
+
+- a **dashboard** that tells a story
+- **machine learning models** people can use
 - **ETL pipelines** that go from raw mess to clean insight
 - my **portfolio** (always a work in progress)
 
-For the off-chance I'm not doing that, I'm probably 🛹
-- **skating** around Ottawa
+For the off-chance I'm not doing that, I'm probably:
+- skating around Ottawa
 - at the gym or playing sports
 - gaming with friends
 - discovering new music
