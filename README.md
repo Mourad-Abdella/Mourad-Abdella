@@ -12,7 +12,7 @@ For the off-chance I'm not doing that, I'm probably 🛹
 - at the gym or playing sports
 - gaming with friends
 - discovering new music
-- reading manwha (check out [Burning Effect]([https://www.webtoons.com/en/action/burning-effect/list?title_no=1547](https://mangadex.org/title/897ee431-5738-4465-8389-6cab340c4bd1/burning-effect?tab=art)))
+- reading manwha (check out [Burning Effect](https://mangadex.org/title/897ee431-5738-4465-8389-6cab340c4bd1/burning-effect?tab=art))
 - or looking for a job (PLEASE REFER ME)
 
 ---
